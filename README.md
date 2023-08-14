@@ -9,5 +9,4 @@
 - 📫 How to reach me: jessicalynndev@gmail.com
 - ⚡ Fun fact: I love to crochet.
 
-- 
-
+  
