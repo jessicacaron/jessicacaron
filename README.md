@@ -20,3 +20,11 @@
 - Self-Starter
 - Time Management
 - Planning and Priority Setting
+
+## Recent Projects
+
+### Connect 4
+
+### MERN Authentication
+
+### Speed Card Game
