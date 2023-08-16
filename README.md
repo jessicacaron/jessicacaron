@@ -23,6 +23,10 @@
 
 ## Recent Projects
 
+
+https://github.com/jessicacaron/jessicacaron/assets/77312057/4aaa7ef8-7226-453a-8bcd-aadbf882b147
+
+
 ### Connect 4
 
 ### MERN Authentication
