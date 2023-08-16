@@ -24,12 +24,9 @@
 ## Recent Projects
 
 
-
-
-
 ### Connect 4
 ![connect4](https://github.com/jessicacaron/jessicacaron/assets/77312057/6019f4f6-3a19-482f-abc0-a29752d52aa9)
-
+[Codebase:]([https://duckduckgo.com](https://github.com/jessicacaron/connect4))
 ### MERN Authentication
 <img width="1470" alt="auth" src="https://github.com/jessicacaron/jessicacaron/assets/77312057/998bceef-417c-4e09-a4a0-fdfac84a8702">
 
