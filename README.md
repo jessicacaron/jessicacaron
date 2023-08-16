@@ -23,6 +23,9 @@
 
 ## Recent Projects
 
+### TicTacToe
+## - [Codebase](https://github.com/jessicacaron/TicTacToe)
+<img width="788" alt="Screenshot 2023-08-16 at 5 30 30 PM" src="https://github.com/jessicacaron/jessicacaron/assets/77312057/9b86a393-0e43-493a-a3eb-915437b46b90">
 
 ### Connect 4 
 ## - [Codebase](https://github.com/jessicacaron/connect4)
