@@ -9,4 +9,12 @@
 - 📫 How to reach me: jessicalynndev@gmail.com
 - ⚡ Fun fact: I love to crochet.
 
-  
+## Skills
+
+• Mac Certification
+• iOS Certification
+• Programming Essentials
+Certification
+• Dealing with Ambiguity
+• Multi-tasking
+• Technical Knowledge
