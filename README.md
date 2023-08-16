@@ -11,10 +11,9 @@
 
 ## Skills
 
-• Mac Certification
-• iOS Certification
-• Programming Essentials
-Certification
-• Dealing with Ambiguity
-• Multi-tasking
-• Technical Knowledge
+- Mac Certification
+- iOS Certification
+- Programming Essentials Certification
+- Dealing with Ambiguity
+- Multi-tasking
+- Technical Knowledge
