@@ -1,4 +1,4 @@
-### Hello, I'm Jess 👋
+# Hello, I'm Jess 👋
 
 ✨ About Me ✨ 
 - 🔭 I’m currently working on networking.
@@ -13,7 +13,10 @@
 
 - Mac Certification
 - iOS Certification
-- Programming Essentials Certification
-- Dealing with Ambiguity
 - Multi-tasking
-- Technical Knowledge
+- Interpersonal Savvy
+- Communication Skills
+- OrganizationalAgility
+- Self-Starter
+- Time Management
+- Planning and Priority Setting
