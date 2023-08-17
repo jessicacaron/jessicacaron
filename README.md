@@ -37,4 +37,5 @@
 
 ### Speed Card Game
 ## - [Codebase](https://github.com/jessicacaron/Redacted_Speed_Game)
-<img width="1570" alt="Screenshot 2023-08-15 at 9 55 46 PM" src="https://github.com/jessicacaron/jessicacaron/assets/77312057/c31af353-5c00-4676-8ed5-ab65fb800467">
+![SpeedGameDemo](https://github.com/jessicacaron/jessicacaron/assets/77312057/21ee4412-2f0a-4d2a-8ead-03b6f002ede2)
+
