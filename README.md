@@ -1,6 +1,7 @@
 # Hello, I'm Jess 👋
 
 ✨ About Me ✨ 
+- Github Portfolio:https://jessicacaron.github.io/
 - 🔭 I’m currently working on networking.
 - 🌱 I’m currently learning MERN full stack development.
 - 👯 I’m looking to collaborate on web development ideas.
